@@ -1,8 +1,8 @@
-# Hi, I'm Imane :) 
+# Hi, I'm Imane 👩‍💻
 
-**I am a Master's student in Bioinformatics (M2) at University Paris Cité.** My main interest is in integrating multi-omics data with deep learning models to advance precision medicine. 
+**I am a Master's student in Bioinformatics (M2) at University Paris Cité.** My main interest is in integrating multi-omics data with deep learning models to advance precision medicine 🧬
 
-**\(^o^)/** Currently Seeking a **6-month research internship** starting mid-January 2027, focusing on AI-driven bioinformatics and multi-omics integration.
+**\(^o^)/** Currently seeking a **6-month research internship** starting mid-January 2027 focusing on AI-driven bioinformatics and multi-omics integration.
 
 <div align="center">
   <p>📩 Feel free to reach out to me: <strong>imane.biyar.ib@gmail.com 📩</strong></p>

@@ -2,7 +2,7 @@
 
 **I am a Master's student in Bioinformatics (M2).** My main interest is in integrating multi-omics data with deep learning models to advance precision medicine. 
 
-**\(^o^)/ Currently Seeking** a 6-month research internship starting mid-January 2027, focusing on AI-driven bioinformatics and multi-omics integration.
+**\(^o^)/** Currently Seeking a **6-month research internship** starting mid-January 2027, focusing on AI-driven bioinformatics and multi-omics integration.
 
 <div align="center">
   <h3>Let's Connect !!</h3>

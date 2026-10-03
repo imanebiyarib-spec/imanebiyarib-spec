@@ -10,7 +10,7 @@ I am a Master's student in Bioinformatics (M2). My main interest is in integrati
 *   **Global Academic Background:** Gained international research and academic experience through an exchange year in Japan (Kyoto University) and research internships in Canada (Lakehead University).
 
 ### Skills
-*   **Languages:** Python, R, Bash
+*   **Languages:**![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) Bash
 *   **Machine Learning & Deep Learning:** PyTorch, TensorFlow, Keras, scikit-learn
 *   **Omics:** DESeq2/limma, maftools, dN/dS, GISTIC2.0, BLAST, MEGA/MrBayes/IQTree
 *   **Structural Biology:** AlphaFold3, PyMOL, AutoDock Vina, Pharmit
@@ -19,5 +19,4 @@ I am a Master's student in Bioinformatics (M2). My main interest is in integrati
 *   **Email:** imane.biyar.ib@gmail.com
 *   **LinkedIn:** https://www.linkedin.com/in/imane-biyar-330323278/
 *   
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+

@@ -20,3 +20,4 @@ I am a Master's student in Bioinformatics (M2). My main interest is in integrati
 *   **LinkedIn:** https://www.linkedin.com/in/imane-biyar-330323278/
 *   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
